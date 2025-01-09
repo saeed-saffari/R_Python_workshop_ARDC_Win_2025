@@ -29,7 +29,8 @@ Welcome to the **R and Python Workshop** hosted by the Atlantic Research Data Ce
 ## **Workshop Sections**  
 
 ### **R Workshop Sessions**  
-![R Sessions Poster](https://github.com/saeed-saffari/R_Python_workshop_ARDC_Win_2025/blob/main/R.png?raw=true)  
+<img src = "https://github.com/saeed-saffari/R_Python_workshop_ARDC_Win_2025/blob/main/R.png?raw=true" width="400" >
+
 
 The R section covers:
 - Session 1: Introduction to R, Data Structures, and Programming
@@ -40,7 +41,8 @@ Click here to access [**R Workshop Materials**](./R_Workshop/).
 ---
 
 ### **Python Workshop Sessions**  
-![Python Sessions Poster](https://github.com/saeed-saffari/R_Python_workshop_ARDC_Win_2025/blob/main/Python.png?raw=true)  
+<img src = "https://github.com/saeed-saffari/R_Python_workshop_ARDC_Win_2025/blob/main/Python.png?raw=true" width="400" >
+
 
 The Python section covers:
 - Session 3: Introduction to Python, Data Structures, and Loops
@@ -56,4 +58,4 @@ Click here to access [**Python Workshop Materials**](./Python_Workshop/).
 To get started with the workshop materials, follow these steps:
 1. **Download the repository**: Click on the green `Code` button and choose `Download ZIP`, or clone the repository using Git:
    ```bash
-   git clone https://github.com/yourusername/R-Python_Workshop.git
+   git clone https://github.com/saeed-saffari/R_Python_workshop_ARDC_Win_2025.git
