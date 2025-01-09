@@ -6,7 +6,8 @@ Welcome to the **R and Python Workshop** hosted by the Atlantic Research Data Ce
 
 ## **Workshop Poster**
 
-![Workshop Poster](https://github.com/saeed-saffari/R_Python_workshop_ARDC_Win_2025/blob/main/Workshop.png?raw=true)  
+<img src = "https://github.com/saeed-saffari/R_Python_workshop_ARDC_Win_2025/blob/main/Workshop.png?raw=true" width="400" >
+
 
 ---
 
