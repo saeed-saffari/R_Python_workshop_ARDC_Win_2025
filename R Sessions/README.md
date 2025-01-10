@@ -32,12 +32,9 @@ Click the link below to access the R Markdown (`.Rmd`) file we will use during t
 ### **Books for Learning R**
 - [*R for Data Science* by Garrett Grolemund and Hadley Wickham](https://r4ds.had.co.nz) *(Free Online Book)*  
 - [*Advanced R* by Hadley Wickham](https://adv-r.hadley.nz) *(Great for in-depth R programming)*  
-- *A Guide to Econometrics in R* by Grant Farnsworth (available via [EconBook](https://econbook.com/))
 
 ### **R for Empirical Research in Economics**
 - [Introduction to Econometrics with R (Online Book)](https://www.econometrics-with-r.org/)  
-- [DIME Analytics: R Codes for Empirical Research in Economics](https://dimewiki.worldbank.org/R)
-
 ---
 
 ## **Contact Information**  
