@@ -36,7 +36,7 @@ The R section covers:
 - Session 1: Introduction to R, Data Structures, and Programming
 - Session 2: Data Manipulation with `dplyr`, Data Visualization with `ggplot2`, and Statistical Applications  
 
-Click here to access [**R Workshop Materials**](./R_Workshop/).  
+Click here to access [**R Workshop Materials**](https://github.com/saeed-saffari/R_Python_workshop_ARDC_Win_2025/tree/main/R%20Sessions).  
 
 ---
 
@@ -49,7 +49,7 @@ The Python section covers:
 - Session 4: Data Analysis with `NumPy`, `Pandas`, and Data Visualization with `Matplotlib`
 - Session 5: Working with Real Data, Regression Analysis, and Accessing Online Datasets  
 
-Click here to access [**Python Workshop Materials**](./Python_Workshop/).  
+Click here to access [**Python Workshop Materials**](https://github.com/saeed-saffari/R_Python_workshop_ARDC_Win_2025/tree/main/Python%20Sessions).  
 
 ---
 
