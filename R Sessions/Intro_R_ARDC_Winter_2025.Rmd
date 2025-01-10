@@ -1,8 +1,5 @@
 ---
 title: |
-  ![](dalhousie_logo.png){width=2in}
-  
-  
   Introduction to R
 author:
 - "[Saeed Saffari](https://www.saeedsaffari.com)\\
