@@ -3,6 +3,7 @@ title: |
   Introduction to R
 author:
 - "[Saeed Saffari](https://www.saeedsaffari.com)\\
+
 [Saeed.Saffari@dal.ca](mailto: Saeed.Saffari@dal.ca)"
 organization: Dalhousie University
 date: Winter 2025
@@ -11,12 +12,12 @@ output:
     toc: yes
     toc_depth: 5
     number_sections: true
-  html_document: 
+  pdf_document:
+    
     toc: yes
     toc_depth: 5
     number_sections: true
-  pdf_document:
-    
+  html_document: 
     toc: yes
     toc_depth: 5
     number_sections: true
@@ -200,9 +201,11 @@ $$GDP_{t} = 1000 \cdot (1+r)^{n}$$
 
 Write a conditional statement to check whether the variable is positive, negative, or zero and print the appropriate message.
 
+
 ```{r}
 
 ```
+
 
 ## function
 
@@ -220,7 +223,17 @@ Write a function `temp()` that converts a temperature in Celsius to Fahrenheit.
 
 ### Practice II:
 
-Create a function `calculate_mean()` that takes a vector of numbers and returns their mean. Test the function with the vector `c(1, 2, 3, 4, 5)`.
+Create a function to calculate the **future value** \( K_n \) of an investment after `n` years with a given principal \( K \) and interest rate \( r \).  
+
+The formula for compound interest is:
+$$K_n = K \times (1 + r)^n$$
+```{r}
+
+```
+
+### Practice III:
+
+Write a function in R that takes a number as input and returns whether the number is even or odd.
 
 ```{r}
 
@@ -230,7 +243,7 @@ Create a function `calculate_mean()` that takes a vector of numbers and returns 
 
 # Vetors
 
-The most common way to creat vectors is to use function `c()`.
+The most common way to create vectors is to use function `c()`.
 
 ```{r}
 
@@ -469,12 +482,6 @@ Creat list with vectors
 ```
 
 ## List subset Operator
-
-```{r}
-
-```
-
-## Lists Concatenation
 
 ```{r}
 
