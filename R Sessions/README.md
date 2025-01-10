@@ -1,61 +1,44 @@
-# R and Python for Economic Analysis Workshop (January 2025)
-
-Welcome to the **R and Python Workshop** hosted by the Atlantic Research Data Centre! This workshop is designed for students, researchers, and professionals from various disciplines who want to enhance their data analysis skills using R and Python. Over five interactive sessions, you will learn how to manipulate data, create visualizations, and perform empirical research using the latest tools.
-
----
-
-## **Workshop Poster**
-
-<img src = "https://github.com/saeed-saffari/R_Python_workshop_ARDC_Win_2025/blob/main/Workshop.png?raw=true" width="400" >
+# R for Data Analysis and Empirical Research Workshop
 
 
 ---
 
-## **Workshop Details**
+## **Getting Started: Installation Guide**
 
-- **Facilitator:** Saeed Saffari  
-- **Location:** McCain 2022  
-- **Schedule:**  
-  - **R Section:**  
-    - Session 1: Friday, January 10, 2:30 PM – 5:30 PM  
-    - Session 2: Saturday, January 11, 9:00 AM – 12:00 PM  
-  - **Python Section:**  
-    - Session 3: Friday, January 17, 2:30 PM – 5:30 PM  
-    - Session 4: Saturday, January 18, 9:00 AM – 12:00 PM  
-    - Session 5: Friday, January 24, 2:30 PM – 5:30 PM  
+To get started with R and RStudio, follow these steps:
+
+1. **Install R**:  
+   Download and install R from [CRAN](https://cran.r-project.org).
+   
+2. **Install RStudio**:  
+   Download and install RStudio Desktop (free version) from [RStudio](https://posit.co/download/rstudio-desktop/).
 
 ---
 
-## **Workshop Sections**  
+## **Workshop Materials**
 
-### **R Workshop Sessions**  
-<img src = "https://github.com/saeed-saffari/R_Python_workshop_ARDC_Win_2025/blob/main/R.png?raw=true" width="400" >
-
-
-The R section covers:
-- Session 1: Introduction to R, Data Structures, and Programming
-- Session 2: Data Manipulation with `dplyr`, Data Visualization with `ggplot2`, and Statistical Applications  
-
-Click here to access [**R Workshop Materials**](./R_Workshop/).  
+### **R Markdown File for Class**  
+Click the link below to access the R Markdown (`.Rmd`) file we will use during the workshop session:  
+- [Download R Workshop RMarkdown File](https://github.com/yourusername/R_Python_Workshop_ARDC_Win_2025/blob/main/R%20Sessions/Intro_R__ARDC_Winter_2025.Rmd)
 
 ---
 
-### **Python Workshop Sessions**  
-<img src = "https://github.com/saeed-saffari/R_Python_workshop_ARDC_Win_2025/blob/main/Python.png?raw=true" width="400" >
+## **Additional Learning Resources**
 
+### **Online Courses and Tutorials**
+- [R for Data Science Online Course (DataCamp)](https://www.datacamp.com/courses/free-introduction-to-r)
+- [Google Data Analytics: Data Analysis with R (Coursera)](https://www.coursera.org/learn/data-analysis-with-r)
 
-The Python section covers:
-- Session 3: Introduction to Python, Data Structures, and Loops
-- Session 4: Data Analysis with `NumPy`, `Pandas`, and Data Visualization with `Matplotlib`
-- Session 5: Working with Real Data, Regression Analysis, and Accessing Online Datasets  
+### **Books for Learning R**
+- [*R for Data Science* by Garrett Grolemund and Hadley Wickham](https://r4ds.had.co.nz) *(Free Online Book)*  
+- [*Advanced R* by Hadley Wickham](https://adv-r.hadley.nz) *(Great for in-depth R programming)*  
 
-Click here to access [**Python Workshop Materials**](./Python_Workshop/).  
-
+### **R for Empirical Research in Economics**
+- [Introduction to Econometrics with R (Online Book)](https://www.econometrics-with-r.org/)  
 ---
 
-## **Getting Started**
+## **Contact Information**  
+If you have any questions during or after the workshop, feel free to reach out:  
+📧 Saeed.Saffari@dal.ca  
 
-To get started with the workshop materials, follow these steps:
-1. **Download the repository**: Click on the green `Code` button and choose `Download ZIP`, or clone the repository using Git:
-   ```bash
-   git clone https://github.com/saeed-saffari/R_Python_workshop_ARDC_Win_2025.git
+---
