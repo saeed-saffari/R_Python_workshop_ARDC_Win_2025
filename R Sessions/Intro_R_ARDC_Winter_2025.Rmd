@@ -292,7 +292,8 @@ if (age <= 4){
   price = 0
 } else if (age < 16){
   price = 50
-} else if (age >= 16){
+} else {
+#} else if (age >= 16){
   price = 100
 }
 
@@ -336,16 +337,56 @@ while (i < 10){
 
 Write a conditional statement to check whether the variable is positive, negative, or zero and print the appropriate message.
 
+```{r}
+"It's R"
+```
 
 ```{r}
-
+x <- -5
+if (x > 0) {
+  print('Positive')
+} else if (x < 0){
+  print("Negative")
+} else {
+  print('Zero')
+}
 ```
 
 
 ## function
 
 ```{r}
+average = function(a,b,c){
+  summ = a + b + c
+  ave = summ / 3
+  return(ave)
+}
 
+average(34,12,-23) * 2
+```
+```{r}
+average(23,56,98)
+```
+
+```{r}
+price_func = function(age){
+if (age <= 4){
+  price = 0
+} else if (age < 16){
+  price = 50
+} else {
+  price = 100
+}
+print(paste("Your cost is $", price))
+}
+
+price_func(18)
+```
+```{r}
+for (i in seq(1:20)){
+  #print(i)
+  price_func(i)
+}
 ```
 
 ### Practice I:
@@ -353,7 +394,11 @@ Write a conditional statement to check whether the variable is positive, negativ
 Write a function `temp()` that converts a temperature in Celsius to Fahrenheit.
 
 ```{r}
-
+temp <- function(temps){
+  fahrenheit <- (temps * 9 / 5) + 32
+  print(fahrenheit)
+}
+temp(90)
 ```
 
 ### Practice II:
@@ -363,7 +408,12 @@ Create a function to calculate the **future value** \( K_n \) of an investment a
 The formula for compound interest is:
 $$K_n = K \times (1 + r)^n$$
 ```{r}
-
+future_value <- function(k, r, n){
+  k_n <- k * (1+r)^n # future value formula
+  return(k_n)
+}
+future_value(1000, 0.05, 10)
+future_value(1000, 0.05, 10) - 1000
 ```
 
 ### Practice III:
@@ -381,73 +431,152 @@ Write a function in R that takes a number as input and returns whether the numbe
 The most common way to create vectors is to use function `c()`.
 
 ```{r}
+x <- c(10.25, 3.5, 8.75, 23.15, 12)
+x
 
+x <- c(10.25, 3.5, 8.75, 23.15, 12, 'a', 'b', "c")
+x
+class(x)
+
+x <- c(1,2,3,4,5,6,7)
+x
+
+y <- 1:7
+y
 ```
 
 **Join vectors**
 
 ```{r}
+x <- c(10,20,30,40)
+y <- c(3.5, 4.75)
 
+z <- c(x,y)
+z
 ```
 
 You can find *lenght* of vectors with *lenght()* function:
 
 ```{r}
+x <- c(1.5, 3.25, 8.75, 13.15)
+x
 
+length(x)
 ```
 
 ## Vector Indexing
 
 ```{r}
+x <- c(10,45,30,50,35,50,80)
+x
 
+x[1]
+x[3]
+
+x[-2]
+
+x[3:6]
+
+x[c(1,3,4)]
+
+length(x)
+x[10]
+
+x
+x[2]
+x[2] <- -8
+x
+
+x[10] = 20
+x
+
+x[-3] = 6
+x
+
+x
+y <- c(TRUE, FALSE, FALSE, TRUE, TRUE, FALSE, TRUE)
+y <- c(T, F, F, T, T, F, T)
+x[y]
 ```
 
 Use for loops for access to elemets of vectors
 
 ```{r}
-
-```
-
-Use index:
-
-```{r}
-
+for (i in x){
+  print(x*2)
+}
 ```
 
 ## Matching Operator
 
 ```{r}
+x <- c(10,45,30,50,35,50,80)
+x
 
+35 %in% x
+37 %in% x
+
+y <- c(30, 37, 45)
+y %in% x
 ```
 
 ## Vector Arithmetic's
 
 ```{r}
-
+x <- c(10,45,30,50,35,50,80)
+x
+x + 2
+x * 2
+sqrt(x)
 ```
 
 ```{r}
+x <- c(10,45,30,50)
+y <- c(5,1,2,4)
 
+x + y
+z <- c(10,20,30)
+x + z
 ```
 
 ## Vector Methods
 
 ```{r}
+x <- c(10,45,30,50)
+x
+length(x)
 
+sum(x)
+mean(x)
+
+prod(x)
+
+rev(x)
+
+sort(x)
+
+sort(x, decreasing = TRUE)
 ```
 
-```{r}
-
-```
 
 ## Logical Vector
 
 ```{r}
+x <- c(10,45,30,50,35)
+x
 
+y <- x > 30 & x < 50
+y
+
+x[y]
 ```
 
 ```{r}
+x <- c(10,45,30,50,35)
+x
 
+which(x>30)
+x[which(x>30)]
 ```
 
 ## Factors
@@ -458,6 +587,13 @@ Use index:
 
 ```{r}
 x <- c('Male', "Female", "Male", 'Male', "Female")
+x
+
+x <- factor(x)
+x
+
+table(x)
+
 ```
 
 ## Mathematical Function in R
