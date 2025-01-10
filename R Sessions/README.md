@@ -11,7 +11,7 @@ To get started with R and RStudio, follow these steps:
    Download and install R from [CRAN](https://cran.r-project.org).
    
 2. **Install RStudio**:  
-   Download and install RStudio Desktop (free version) from [RStudio/Posit](https://posit.co/download/rstudio-desktop/).
+   Download and install RStudio Desktop (free version) from [RStudio](https://posit.co/download/rstudio-desktop/).
 
 ---
 
