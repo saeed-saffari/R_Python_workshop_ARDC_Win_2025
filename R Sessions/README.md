@@ -1,4 +1,4 @@
-# R for Data Analysis and Empirical Research Workshop (Winter 2025)
+# R for Data Analysis and Empirical Research Workshop
 
 
 ---
