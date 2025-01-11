@@ -2,17 +2,17 @@
 title: |
   Introduction to R
 author:
-- "[Saeed Saffari](https://www.saeedsaffari.com)\\
+- "[Saeed Saffari](https://www.saeedsaffari.com) \\
 [Saeed.Saffari@dal.ca](mailto: Saeed.Saffari@dal.ca)"
 organization: Dalhousie University
 date: Winter 2025
 output:
-  html_notebook:
+  pdf_document:
+    
     toc: yes
     toc_depth: 5
     number_sections: true
-  pdf_document:
-    
+  html_notebook:
     toc: yes
     toc_depth: 5
     number_sections: true
