@@ -7,12 +7,12 @@ author:
 organization: Dalhousie University
 date: Winter 2025
 output:
-  pdf_document:
-    
+  html_notebook:
     toc: yes
     toc_depth: 5
     number_sections: true
-  html_notebook:
+  pdf_document:
+    
     toc: yes
     toc_depth: 5
     number_sections: true
@@ -634,7 +634,7 @@ x <- rnorm(10)
 x
 
 x <- rnorm(10000, mean = 0, sd=1)
-x
+#x
 
 mean(x)
 sd(x)
