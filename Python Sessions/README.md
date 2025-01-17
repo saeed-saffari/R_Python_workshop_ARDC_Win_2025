@@ -1,41 +1,53 @@
-# R for Data Analysis and Empirical Research Workshop
+# Python for Data Analysis and Empirical Research Workshop
 
 
 ---
 
 ## **Getting Started: Installation Guide**
 
-To get started with R and RStudio, follow these steps:
+For this workshop, we recommend using **Anaconda**, a Python distribution that simplifies the installation of essential tools and libraries.  
 
-1. **Install R**:  
-   Download and install R from [CRAN](https://cran.r-project.org).
+
+1. **Install Anaconda**:  
+   Download and install Anaconda from [Anaconda Official Website](https://www.anaconda.com/products/distribution).  
+
+2. **Launch Jupyter Notebook**:  
+   Open Jupyter Notebook using the Anaconda Navigator or by typing:  
+   ```bash
+   jupyter notebook
+   ```
    
-2. **Install RStudio**:  
-   Download and install RStudio Desktop (free version) from [RStudio](https://posit.co/download/rstudio-desktop/).
-
 ---
 
 ## **Workshop Materials**
 
-### **R Markdown File for Class**  
-Click the link below to access the R Markdown (`.Rmd`) file we will use during the workshop session:  
-- [Download R Workshop RMarkdown File](https://github.com/saeed-saffari/R_Python_workshop_ARDC_Win_2025/blob/main/R%20Sessions/Intro_R_ARDC_Winter_2025.Rmd)
-- [Direct link to RMarkdown File on RStudio Cloud](https://posit.cloud/content/9519888)
+### **Python Notebook for Class**  
+You can access the Python notebook used during the session via Google Colab or GitHub:
+
+
+- [**Google Colab Link**](https://colab.research.google.com/github/saeed-saffari/R_Python_workshop_ARDC_Win_2025/blob/main/Python%20Sessions/1-%20Intro%20Python%20-%20Session%201.ipynb) *(Replace with your actual Colab link)*  
+- [**GitHub Repository Link**](https://github.com/saeed-saffari/R_Python_workshop_ARDC_Win_2025/blob/main/Python%20Sessions/1-%20Intro%20Python%20-%20Session%201.ipynb)  
+
+Feel free to use either platform to follow along during the session.
 
 ---
 
 ## **Additional Learning Resources**
 
 ### **Online Courses and Tutorials**
-- [R for Data Science Online Course (DataCamp)](https://www.datacamp.com/courses/free-introduction-to-r)
-- [Google Data Analytics: Data Analysis with R (Coursera)](https://www.coursera.org/learn/data-analysis-with-r)
+- [Python for Data Science and Machine Learning Bootcamp (Udemy)](https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/)
+- [Introduction to Python (DataCamp)](https://www.datacamp.com/courses/intro-to-python-for-data-science)
+- [Google IT Automation with Python Professional Certificate (Coursera)](https://www.coursera.org/professional-certificates/google-it-automation)
+- [Python for Everybody by the University of Michigan (Coursera)](https://www.coursera.org/specializations/python)
 
-### **Books for Learning R**
-- [*R for Data Science* by Garrett Grolemund and Hadley Wickham](https://r4ds.had.co.nz) *(Free Online Book)*  
-- [*Advanced R* by Hadley Wickham](https://adv-r.hadley.nz) *(Great for in-depth R programming)*  
+### **Books for Learning Python**
+- [*Automate the Boring Stuff with Python* by Al Sweigart](https://automatetheboringstuff.com/) *(Free Online Book)*  
+- [*Python for Data Analysis* by Wes McKinney](https://wesmckinney.com/pages/book.html) *(Focused on Pandas and Data Analysis)*  
+- [*A Guide to Python for Econometrics, Statistics, and Data Analysis* by Kevin Sheppard](https://www.kevinsheppard.com/python)  
 
-### **R for Empirical Research in Economics**
-- [Introduction to Econometrics with R (Online Book)](https://www.econometrics-with-r.org/)  
+### **Python for Economics**
+- [QuantEcon by Thomas Sargent and John Stachurski](https://quantecon.org/) *(Excellent resource for Python in economics)*
+
 ---
 
 ## **Contact Information**  
