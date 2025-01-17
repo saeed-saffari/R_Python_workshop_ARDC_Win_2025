@@ -43,7 +43,6 @@ Feel free to use either platform to follow along during the session.
 ### **Books for Learning Python**
 - [*Automate the Boring Stuff with Python* by Al Sweigart](https://automatetheboringstuff.com/) *(Free Online Book)*  
 - [*Python for Data Analysis* by Wes McKinney](https://wesmckinney.com/pages/book.html) *(Focused on Pandas and Data Analysis)*  
-- [*A Guide to Python for Econometrics, Statistics, and Data Analysis* by Kevin Sheppard](https://www.kevinsheppard.com/python)  
 
 ### **Python for Economics**
 - [QuantEcon by Thomas Sargent and John Stachurski](https://quantecon.org/) *(Excellent resource for Python in economics)*
