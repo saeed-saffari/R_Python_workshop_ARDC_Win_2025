@@ -25,8 +25,14 @@ For this workshop, we recommend using **Anaconda**, a Python distribution that s
 You can access the Python notebook used during the session via Google Colab or GitHub:
 
 
-- [**Google Colab Link**](https://colab.research.google.com/github/saeed-saffari/R_Python_workshop_ARDC_Win_2025/blob/main/Python%20Sessions/1-%20Intro%20Python%20-%20Session%201.ipynb) 
-- [**GitHub Repository Link**](https://github.com/saeed-saffari/R_Python_workshop_ARDC_Win_2025/blob/main/Python%20Sessions/1-%20Intro%20Python%20-%20Session%201.ipynb)  
+- [**Google Colab Link Session 1**](https://colab.research.google.com/github/saeed-saffari/R_Python_workshop_ARDC_Win_2025/blob/main/Python%20Sessions/1-%20Intro%20Python%20-%20Session%201.ipynb) 
+- [**GitHub Repository Link Session 1**](https://github.com/saeed-saffari/R_Python_workshop_ARDC_Win_2025/blob/main/Python%20Sessions/1-%20Intro%20Python%20-%20Session%201.ipynb)  
+
+- [**Google Colab Link Session 2**](https://colab.research.google.com/github/saeed-saffari/R_Python_workshop_ARDC_Win_2025/blob/main/Python%20Sessions/2-%20Intro%20Python%20-%20Session%202.ipynb) 
+- [**GitHub Repository Link Session 2**](https://github.com/saeed-saffari/R_Python_workshop_ARDC_Win_2025/blob/main/Python%20Sessions/2-%20Intro%20Python%20-%20Session%202.ipynb)  
+
+
+
 
 Feel free to use either platform to follow along during the session.
 
